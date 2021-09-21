@@ -1,16 +1,16 @@
 
-## Run Locally
+## Setting up the Project
 
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/rajarshisg/Tame-Of-Thrones.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd Tame-Of-Thrones
 ```
 
 Install dependencies
